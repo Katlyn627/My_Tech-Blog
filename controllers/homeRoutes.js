@@ -2,6 +2,8 @@ const router = require('express').Router();
 const { Project, User } = require('../models');
 const withAuth = require('../utils/auth');
 
+// Get all Projects
+
 router.get('/', async (req, res) => {
   try {
 
@@ -26,6 +28,8 @@ router.get('/', async (req, res) => {
   }
 });
 
+// Get project by ID
+
 router.get('/project/:id', async (req, res) => {
   try {
     const projectData = await Project.findByPk(req.params.id, {
@@ -48,6 +52,8 @@ router.get('/project/:id', async (req, res) => {
   }
 });
 
+// Get user by ID
+
 router.get('/profile', withAuth, async (req, res) => {
   try {
     const userData = await User.findByPk(req.session.user_id, {
@@ -65,6 +71,8 @@ router.get('/profile', withAuth, async (req, res) => {
     res.status(500).json(err);
   }
 });
+
+// Get login in
 
 router.get('/login', (req, res) => {
   if (req.session.logged_in) {
