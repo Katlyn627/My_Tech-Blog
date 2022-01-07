@@ -38,5 +38,8 @@ If you have any questions about this repo, open an issue or contact me directly 
 
 ## **Deployment** 
 
-Github: You can find the deployment link at [Katlyn627	](https://www.github.com/Katlyn627	).
+Github: You can find the deployment link at [Katlyn627](https://www.github.com/Katlyn627).
 
+Heroku: You can find the deployment link at [Heroku](https://tech-blog-88.herokuapp.com/).
+
+Video Walkthrough Link: You can find the deployment link at [Google Drive]().
