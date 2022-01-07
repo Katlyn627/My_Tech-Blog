@@ -2,7 +2,7 @@ const router = require('express').Router();
 const { Project, User } = require('../models');
 const withAuth = require('../utils/auth');
 
-// Get all Projects
+// Get Hompage
 
 router.get('/', async (req, res) => {
   try {
