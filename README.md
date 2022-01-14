@@ -3,6 +3,9 @@
 
 ## **Video Walkthrough of Project**
 
+![Dashboard](https://user-images.githubusercontent.com/86095070/149473161-56b1b039-d6ea-472b-87b6-e5dc71fd0ed2.gif)
+![Sign Up](https://user-images.githubusercontent.com/86095070/149474268-d6d26f5a-de70-4470-b1a4-c3336e7b18bc.gif)
+![Login](https://user-images.githubusercontent.com/86095070/149474288-d555521d-a3fb-44a6-8cfe-93dc97804cd0.gif)
 
 
 ## **Description**
@@ -40,6 +43,6 @@ If you have any questions about this repo, open an issue or contact me directly 
 
 Github: You can find the deployment link at [Katlyn627](https://www.github.com/Katlyn627).
 
-Heroku: You can find the deployment link at [Heroku](https://tech-blog-88.herokuapp.com/).
+Heroku: You can find the deployment link at [Heroku](https://katlyns-tech-blog.herokuapp.com/).
 
 Video Walkthrough Link: You can find the deployment link at [Google Drive]().
