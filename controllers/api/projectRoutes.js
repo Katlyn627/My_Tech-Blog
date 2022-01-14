@@ -3,10 +3,12 @@ const { Project } = require('../../models');
 const withAuth = require('../../utils/auth');
 
 router.post('/', withAuth, async (req, res) => {
+  // console.log(req.body)
   try {
     const newProject = await Project.create({
-      ...req.body,
-      user_id: req.session.user_id,
+        name: req.body.name,
+        description: req.body.description,
+        user_id: req.session.user_id
     });
 
     res.status(200).json(newProject);
@@ -16,13 +18,14 @@ router.post('/', withAuth, async (req, res) => {
 });
 
 router.delete('/:id', withAuth, async (req, res) => {
+  console.log(req.params.id)
   try {
     const projectData = await Project.destroy({
       where: {
         id: req.params.id,
-        user_id: req.session.user_id,
       },
     });
+    console.log(projectData)
 
     if (!projectData) {
       res.status(404).json({ message: 'No project found with this id!' });
