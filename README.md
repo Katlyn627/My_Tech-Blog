@@ -52,7 +52,7 @@ If you have any questions about this repo, open an issue or contact me directly 
 
 ## **Deployment** 
 
-Github: You can find the deployment link at [Katlyn627](https://www.github.com/Katlyn627).
+Github: You can find the deployment link at [Katlyn627](https://github.com/Katlyn627/Tech-Blog-Final-Draft).
 
 Heroku: You can find the deployment link at [Heroku](https://katlyns-tech-blog.herokuapp.com/).
 
