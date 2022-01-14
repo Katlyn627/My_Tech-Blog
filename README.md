@@ -3,14 +3,19 @@
 
 ## **Video Walkthrough of Project**
 
-* Dashboard Walktrough
+``` 
+Dashboard Walktrough
+```
 ![Dashboard](https://user-images.githubusercontent.com/86095070/149473161-56b1b039-d6ea-472b-87b6-e5dc71fd0ed2.gif)
 
-
-* Signup Walkthrough
+```
+Signup Walkthrough
+```
 ![Sign Up](https://user-images.githubusercontent.com/86095070/149474268-d6d26f5a-de70-4470-b1a4-c3336e7b18bc.gif)
 
-* Login Walkthrough
+```
+Login Walkthrough
+```
 ![Login](https://user-images.githubusercontent.com/86095070/149474288-d555521d-a3fb-44a6-8cfe-93dc97804cd0.gif)
 
 
