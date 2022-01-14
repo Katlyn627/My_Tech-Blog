@@ -1,7 +1,11 @@
-[
+[{
+        "name": "Katlyn Boches",
+        "email": "kboches@gmail.com",
+        "password": "password1234"
+    },
     {
-    "name": "Katlyn Boches",
-    "email": "kboches@gmail.com",
-    "password": "password1234"
-  }
+        "name": "Harry Potter",
+        "email": "hpotter@gmail.com",
+        "password": "password1234"
+    }
 ]

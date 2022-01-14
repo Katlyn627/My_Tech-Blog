@@ -1,14 +1,21 @@
-[
-    {
-      "name": "What is your coding superpower?",
-      "description": "It's the ability to control and change the way things in the world around you work. Admittedly that's not as exciting as being able to make yourself invisible or to teleport, but what does make it good is that it's a real power, and almost anyone who wants to can get it."
+[{
+        "name": "What is your coding superpower?",
+        "description": "It's the ability to control and change the way things in the world around you work. Admittedly that's not as exciting as being able to make yourself invisible or to teleport, but what does make it good is that it's a real power, and almost anyone who wants to can get it."
     },
     {
-      "name": "What is the meaning of life?",
-      "description": "The meaning of life is freedom from suffering through apatheia, that is, being objective and having clear judgement, not indifference."
+        "name": "What is the meaning of life?",
+        "description": "The meaning of life is freedom from suffering through apatheia, that is, being objective and having clear judgement, not indifference."
     },
     {
-      "name": "Why do you like to code?",
-      "description": "Because coding makes me cry"
+        "name": "Why do you like to code?",
+        "description": "Because coding makes me cry"
+    },
+    {
+        "name": "Accio Python....I mean...Basilisk?",
+        "description": "Haha....get it... Slytherin...."
+    },
+    {
+        "name": "Why do you like to code?",
+        "description": "Because coding makes me cry"
     }
-  ]
+]
